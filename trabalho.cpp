@@ -1,5 +1,5 @@
 //--------------------------------------------------------------
-// COLOQUE OS NOMES DOS RESPONSÁVEIS AQUI: Luís Henrique Fernandes Ramires
+// COLOQUE OS NOMES DOS RESPONSÁVEIS AQUI: Luís Henrique
 //--------------------------------------------------------------
 
 #include <stdio.h>
@@ -8,20 +8,6 @@
 #include <malloc.h>
 #include <iostream>
 
-// INFORME O NRO DO GRUPO CONFORME PLANILHA DIVULGADA
-int grupo() {
-  return 19;
-}
-
-// ######### ESCREVA O NROUSP AQUI
-int nroUSP1() {
-    return 13671998;
-}
-
-// E O SEGUNDO NROUSP AQUI, SE HOUVER
-int nroUSP2() {
-    return 0;
-}
 
 // elemento da lista de resposta - NAO ALTERE ESTA DEFINICAO
 typedef struct estr {
